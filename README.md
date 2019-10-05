@@ -1,7 +1,6 @@
 <a href="https://shadowproof.com">ShadowProof</a> podcasts.<br>
-
 <a href="kodi.tv">KODI<a> / XBMC / Firestick audio addon for the <a href="https://shadowproof.com/">ShadowProof</a> podcasts:<br>
-<br>
+
 - <a href="https://shadowproof.com/category/dissenter/unauthorized-disclosure/">Unauthorized Disclosure</a><br>
 - <a href="https://shadowproof.com/beyond-prisons/">Beyond Prisons</a><br>
 - <a href="https://shadowproof.com/category/next-cold-war/around-the-empire/">Around The Empire</a><br>
