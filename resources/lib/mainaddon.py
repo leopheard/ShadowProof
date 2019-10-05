@@ -24,7 +24,7 @@ def get_soup4(url4):
     return soup4
 def get_soup5(url5):
     page = requests.get(url5)
-    soup1 = BeautifulSoup(page.text, 'html.parser')
+    soup5 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup5))
     return soup5
 
